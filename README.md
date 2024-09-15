@@ -9,7 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Web3 & Advance Level Project**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
