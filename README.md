@@ -49,9 +49,8 @@ MySQL | PostgreSQL | MongoDB | Redis | REST APIs | Git | Jenkins
 ---
 
 ### 📫 Contact
-- Email: your-email@example.com
-- LinkedIn: linkedin.com/in/yourprofile
-- Portfolio: yourwebsite.com
+- Email: somilsomil25@gmail.com
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/somil-merugawar-8a41162b9/)
 
 ---
 
