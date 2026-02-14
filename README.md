@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Somil Merugawar</h1>
-<h3 align="center">Senior Java Backend Developer | Spring Boot | Microservices Architecture</h3>
+<h3 align="center">Java Backend Developer | Spring Boot | Microservices Architecture</h3>
 
 <p align="center">
 Backend-focused Software Engineer with 4+ years of industry experience designing and building
